@@ -1,6 +1,6 @@
 # Trò chơi của Avenger
 
-Cuộc thi được diễn ra [hackkerrank](https://www.hackerrank.com/kythilaptrinhcanhanthang72022).
+Cuộc thi được diễn ra tại [hackkerrank](https://www.hackerrank.com/kythilaptrinhcanhanthang72023).
 
 ## Problem Statement
 
