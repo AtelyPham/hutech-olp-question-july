@@ -1,6 +1,7 @@
-# Trò chơi của Avenger
-
 Cuộc thi được diễn ra tại [hackkerrank](https://www.hackerrank.com/kythilaptrinhcanhanthang72023).
+Solution [tại đây](https://dark-rowboat-c2a.notion.site/H-p-OLP-7da39ef7eb3c457b8fefb1b6755bfd78)
+
+# Trò chơi của Avenger
 
 ## Problem Statement
 
